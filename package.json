@@ -39,13 +39,9 @@
         ]
     },
     "lint-staged": {
-        "*.{js,vue}": [
-            "npm run lint",
-            "eslint --fix",
-            "prettier --write",
-            "git add"
-        ],
-        "*.{js,css,md}": "prettier --write"
+        "*.{js,css,json,md,ts,tsx}": [
+            "prettier --write"
+        ]
     },
     "devDependencies": {
         "eslint": "^8.15.0",
