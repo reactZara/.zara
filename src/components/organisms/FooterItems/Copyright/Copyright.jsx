@@ -1,7 +1,8 @@
-import './copyright.scss'
+import './copyright.scss';
 
 const Copyright = () => {
-    return <div>Copyright</div>
-}
+    // eslint-disable-next-line react/react-in-jsx-scope
+    return <div>Copyright</div>;
+};
 
-export default Copyright
+export default Copyright;

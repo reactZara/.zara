@@ -1,7 +1,7 @@
-import './pageInformation.scss'
+import './pageInformation.scss';
 
 const PageInformation = () => {
-    return <div>PageInformation</div>
-}
+    return <div>PageInformation</div>;
+};
 
-export default PageInformation
+export default PageInformation;

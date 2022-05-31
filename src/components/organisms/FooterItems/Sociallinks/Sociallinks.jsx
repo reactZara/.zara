@@ -1,4 +1,4 @@
-import './sociallinks.scss'
+import './sociallinks.scss';
 
 const SocialLinks = () => {
     return (
@@ -11,7 +11,7 @@ const SocialLinks = () => {
             <div className="KAKAO">KAKAO</div>
             <div className="YOUTUBE">YOUTUBE</div>
         </section>
-    )
-}
+    );
+};
 
-export default SocialLinks
+export default SocialLinks;

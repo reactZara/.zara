@@ -1,7 +1,7 @@
-import './sitemap.scss'
+import './sitemap.scss';
 
 const SiteMap = () => {
-    return <div>SiteMap</div>
-}
+    return <div>SiteMap</div>;
+};
 
-export default SiteMap
+export default SiteMap;
